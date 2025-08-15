@@ -1,4 +1,6 @@
 # 🌐 Anteneh Getnet | Social Links Page  
+# Live Preview 
+https://my-social-medias-five.vercel.app/
 
 A modern, clean, and responsive **social links webpage** that serves as a personal link hub—similar to Linktree. This page allows visitors to quickly connect with me across various platforms, explore my portfolio, and view my GitHub projects.  
 
@@ -23,4 +25,5 @@ A modern, clean, and responsive **social links webpage** that serves as a person
    ```bash
    git clone https://github.com/anteneh83/social-links-page.git
    ```
+
 
